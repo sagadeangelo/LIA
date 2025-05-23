@@ -1,0 +1,13 @@
+Copyright © 2025 Miguel Tovar Amaral  
+Todos los derechos reservados.
+
+Este software, conocido como “LIA – Lectura Inmersiva Aumentada”, incluyendo su código fuente, diseño, textos, ilustraciones, sonidos, animaciones, estructura de navegación, lógica de interacción, nombre y logotipo, es propiedad intelectual exclusiva de Miguel Tovar Amaral.
+
+Queda estrictamente prohibida la copia, reproducción, distribución, modificación, ingeniería inversa, exhibición pública, transmisión, venta o explotación total o parcial de esta aplicación sin el consentimiento previo y por escrito del autor.
+
+La distribución comercial, sublicenciamiento o cualquier uso con fines de lucro sólo está permitido bajo acuerdo de licencia firmado con Miguel Tovar Amaral.
+
+El autor se reserva el derecho de ejercer acciones legales contra cualquier uso no autorizado de esta obra, conforme a las leyes mexicanas e internacionales de propiedad intelectual.
+
+Para solicitudes de licencia, distribución, colaboración o uso autorizado, contactar a:  
+**miguel.tovar.amaral@gmail.com**

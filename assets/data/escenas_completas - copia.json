@@ -1,0 +1,235 @@
+{
+  "escena_laboratorio": {
+    "palabras_clave": [
+      "laboratorio",
+      "tecnología",
+      "proyección"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets2.lottiefiles.com/packages/lf20_lab_background.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/angelo_boutov.png",
+        "transicion": "fadeInLeft"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/laboratorio.mp3"
+  },
+  "escena_biblioteca_reliquias": {
+    "palabras_clave": [
+      "reliquias",
+      "biblioteca",
+      "artefacto"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets1.lottiefiles.com/packages/lf20_library.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/reliquia.png",
+        "transicion": "fadeInUp"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/reliquias_familiares.mp3"
+  },
+  "escena_batalla_gadianes": {
+    "palabras_clave": [
+      "batalla",
+      "gadianes",
+      "rayo",
+      "arma"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets3.lottiefiles.com/packages/lf20_battle_scene.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/rayo.png",
+        "transicion": "flash"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/sombra.png",
+        "transicion": "fadeInUp"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/rayo.mp3"
+  },
+  "escena_abuelo_memoria": {
+    "palabras_clave": [
+      "abuelo",
+      "diario",
+      "familia",
+      "hogar"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets9.lottiefiles.com/packages/lf20_home_background.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/abuelo_abelard.png",
+        "transicion": "fadeInRight"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/diario.png",
+        "transicion": "fadeIn"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/abuelo_abelard.mp3"
+  },
+  "escena_sotano_teatro": {
+    "palabras_clave": [
+      "teatro",
+      "máscara",
+      "ensayo",
+      "sótano"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets4.lottiefiles.com/packages/lf20_stage_dark.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/mascara_antigas.png",
+        "transicion": "fadeIn"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/obras_de_teatro.mp3"
+  },
+  "escena_traicion_darien": {
+    "palabras_clave": [
+      "darien",
+      "traición",
+      "engaño",
+      "robo"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets6.lottiefiles.com/packages/lf20_dark_cave.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/darien.png",
+        "transicion": "fadeInRight"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/medallon.png",
+        "transicion": "fadeIn"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/sombra.mp3"
+  },
+  "escena_rescate_silvano": {
+    "palabras_clave": [
+      "silvano",
+      "rescate",
+      "protección",
+      "plan"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets5.lottiefiles.com/packages/lf20_military_base.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/sargento_silvano.png",
+        "transicion": "fadeInLeft"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/sargento_silvano.mp3"
+  },
+  "escena_rachel_curacion": {
+    "palabras_clave": [
+      "rachel",
+      "cura",
+      "esperanza",
+      "descubrimiento"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets10.lottiefiles.com/packages/lf20_magic_forest.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/rachel.png",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/cristal.png",
+        "transicion": "fadeIn"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/rachel.mp3"
+  },
+  "escena_viaje_italia": {
+    "palabras_clave": [
+      "viaje",
+      "italia",
+      "aventura",
+      "mar"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets1.lottiefiles.com/packages/lf20_oceanview.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/auto_convertible.png",
+        "transicion": "fadeInUp"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/auto_convertible.mp3"
+  },
+  "escena_encuentro_reliquia_mayor": {
+    "palabras_clave": [
+      "reliquia mayor",
+      "brazalete",
+      "medallón",
+      "activación"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets7.lottiefiles.com/packages/lf20_treasureglow.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/brazalete.png",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/medallon.png",
+        "transicion": "fadeIn"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/medallon.mp3"
+  }
+}

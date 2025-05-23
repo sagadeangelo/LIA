@@ -1,0 +1,30 @@
+{
+  "escena_familiar": {
+    "palabras_clave": ["abuelo", "hogar"],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets4.lottiefiles.com/packages/lf20_homecozy.json",
+        "transicion": "fadeIn"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/abuelo_abelard.mp3"
+  },
+
+  "escena_laboratorio": {
+    "palabras_clave": ["laboratorio"],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets2.lottiefiles.com/packages/lf20_lab_background.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/angelo_boutov.png",
+        "transicion": "fadeInLeft"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/laboratorio.mp3"
+  }
+}
