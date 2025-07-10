@@ -1,0 +1,106 @@
+{
+  "escena_laboratorio": {
+    "palabras_clave": [
+      "laboratorio",
+      "reliquia",
+      "proyección",
+      "brazalete",
+      "energía"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets2.lottiefiles.com/packages/lf20_lab_background.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/rayo.png",
+        "transicion": "glowPulse"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/angelo_boutov.png",
+        "transicion": "fadeInLeft"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/laboratorio.mp3"
+  },
+  "escena_traicion": {
+    "palabras_clave": [
+      "traición",
+      "medallón",
+      "robo",
+      "oscuridad",
+      "engaño"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets9.lottiefiles.com/packages/lf20_darkscene.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/darien.png",
+        "transicion": "fadeInRight"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/sombra.mp3"
+  },
+  "escena_familiar": {
+    "palabras_clave": [
+      "abuelo",
+      "familia",
+      "diario",
+      "hogar",
+      "navidad"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets4.lottiefiles.com/packages/lf20_homecozy.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/diario.png",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/abuelo_abelard.png",
+        "transicion": "fadeInDown"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/abuelo_abelard.mp3"
+  },
+  "escena_combate": {
+    "palabras_clave": [
+      "gadianes",
+      "batalla",
+      "rayo",
+      "escudo",
+      "arma",
+      "traición"
+    ],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets10.lottiefiles.com/packages/lf20_battlefield.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/rayo.png",
+        "transicion": "flash"
+      },
+      {
+        "tipo": "efecto",
+        "src": "assets/animaciones/sombra.png",
+        "transicion": "fadeInUp"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/rayo.mp3"
+  }
+}

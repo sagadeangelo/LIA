@@ -1,0 +1,1 @@
+export 'src/speech_to_text.dart';

@@ -1,0 +1,338 @@
+{
+  "angelo_ditox": [
+    {
+      "id": "proyecto_ditox",
+      "palabras_clave": [
+        "proyecto",
+        "ditóx",
+        "experimento",
+        "agua contaminada"
+      ],
+      "imagen": "assets/animaciones/toxina.png",
+      "sonido": "assets/sounds/toxina.mp3"
+    },
+    {
+      "id": "infiltracion_en_laboratorio",
+      "palabras_clave": [
+        "laboratorio",
+        "espionaje",
+        "acceso",
+        "zona restringida"
+      ],
+      "imagen": "assets/animaciones/laboratorio.png",
+      "sonido": "assets/sounds/laboratorio.mp3"
+    },
+    {
+      "id": "relato_del_abuelo",
+      "palabras_clave": [
+        "abuelo",
+        "abelard",
+        "resguardo",
+        "casa antigua"
+      ],
+      "imagen": "assets/animaciones/abuelo_abelard.png",
+      "sonido": "assets/sounds/abuelo_abelard.mp3"
+    },
+    {
+      "id": "reclutamiento_millenicalls",
+      "palabras_clave": [
+        "millenicalls",
+        "genocidio",
+        "manipulación",
+        "conspiración"
+      ],
+      "imagen": "assets/animaciones/sombra.png",
+      "sonido": "assets/sounds/sombra.mp3"
+    },
+    {
+      "id": "muerte_del_mentor",
+      "palabras_clave": [
+        "caída",
+        "sacrificio",
+        "mentor",
+        "último aliento"
+      ],
+      "imagen": "assets/animaciones/rayo.png",
+      "sonido": "assets/sounds/rayo.mp3"
+    },
+    {
+      "id": "huida_tras_la_explosion",
+      "palabras_clave": [
+        "explosión",
+        "huida",
+        "corredor",
+        "escape"
+      ],
+      "imagen": "assets/animaciones/angelo_boutov.png",
+      "sonido": "assets/sounds/tap_confirm.mp3"
+    },
+    {
+      "id": "conversacion_familiar",
+      "palabras_clave": [
+        "papá",
+        "familia",
+        "confianza",
+        "promesa"
+      ],
+      "imagen": "assets/animaciones/abuelo_abelard.png",
+      "sonido": "assets/sounds/abuelo_abelard.mp3"
+    },
+    {
+      "id": "descubrimiento_del_diario",
+      "palabras_clave": [
+        "diario",
+        "páginas ocultas",
+        "verdades",
+        "herencia"
+      ],
+      "imagen": "assets/animaciones/diario.png",
+      "sonido": "assets/sounds/diario.mp3"
+    },
+    {
+      "id": "vision_de_italia",
+      "palabras_clave": [
+        "italia",
+        "futuro",
+        "reflexión",
+        "camino"
+      ],
+      "imagen": "assets/animaciones/el_resguardo.png",
+      "sonido": "assets/sounds/el_resguardo.mp3"
+    },
+    {
+      "id": "epifania_final",
+      "palabras_clave": [
+        "valores",
+        "amistad",
+        "madurez",
+        "sentido de la vida"
+      ],
+      "imagen": "assets/animaciones/angelo_boutov.png",
+      "sonido": "assets/sounds/angelo_boutov.mp3"
+    }
+  ],
+  "angelo_gadianes": [
+    {
+      "id": "descubrimiento_del_mural",
+      "palabras_clave": [
+        "nombre",
+        "clave",
+        "mural",
+        "pared secreta"
+      ],
+      "imagen": "assets/animaciones/reliquia.png",
+      "sonido": "assets/sounds/reliquia.mp3"
+    },
+    {
+      "id": "la_llave_del_angel",
+      "palabras_clave": [
+        "llave",
+        "ángel",
+        "resguardo",
+        "secreto"
+      ],
+      "imagen": "assets/animaciones/angelo_boutov.png",
+      "sonido": "assets/sounds/angelo_boutov.mp3"
+    },
+    {
+      "id": "la_boveda",
+      "palabras_clave": [
+        "bóveda",
+        "árbol",
+        "mecanismo",
+        "apertura"
+      ],
+      "imagen": "assets/animaciones/cristal.png",
+      "sonido": "assets/sounds/cristal.mp3"
+    },
+    {
+      "id": "mensaje_pictografico",
+      "palabras_clave": [
+        "mensaje",
+        "pictogramas",
+        "clave",
+        "descifrar"
+      ],
+      "imagen": "assets/animaciones/diario.png",
+      "sonido": "assets/sounds/diario.mp3"
+    },
+    {
+      "id": "la_sangre_es_herencia",
+      "palabras_clave": [
+        "sangre",
+        "descendiente",
+        "herencia",
+        "legado"
+      ],
+      "imagen": "assets/animaciones/angelo_boutov.png",
+      "sonido": "assets/sounds/angelo_boutov.mp3"
+    },
+    {
+      "id": "el_reloj_de_arena",
+      "palabras_clave": [
+        "reloj",
+        "arena",
+        "tiempo",
+        "decisión"
+      ],
+      "imagen": "assets/animaciones/reliquia.png",
+      "sonido": "assets/sounds/reliquia.mp3"
+    },
+    {
+      "id": "ciudad_sumergida",
+      "palabras_clave": [
+        "atlantis",
+        "océano",
+        "ciudad sumergida",
+        "barcos invisibles"
+      ],
+      "imagen": "assets/animaciones/imagen_misma_de_los_cielos.png",
+      "sonido": "assets/sounds/imagen_misma_de_los_cielos.mp3"
+    },
+    {
+      "id": "celit_y_la_luz",
+      "palabras_clave": [
+        "celit",
+        "luz celeste",
+        "observatorio",
+        "ritual"
+      ],
+      "imagen": "assets/animaciones/angelo_boutov.png",
+      "sonido": "assets/sounds/angelo_boutov.mp3"
+    },
+    {
+      "id": "escape_akineano",
+      "palabras_clave": [
+        "escape",
+        "akineanos",
+        "túnel",
+        "demoler pared"
+      ],
+      "imagen": "assets/animaciones/akineanos.png",
+      "sonido": "assets/sounds/jefe_akinae.mp3"
+    },
+    {
+      "id": "la_revelacion_de_darien",
+      "palabras_clave": [
+        "darien",
+        "bodega",
+        "culpa",
+        "secreto"
+      ],
+      "imagen": "assets/animaciones/darien.png",
+      "sonido": "assets/sounds/darien.mp3"
+    }
+  ],
+  "angelo_artefactos": [
+    {
+      "id": "descubrimiento_de_los_artefactos",
+      "palabras_clave": [
+        "artefactos",
+        "reliquias",
+        "cámara",
+        "etiquetas"
+      ],
+      "imagen": "assets/animaciones/reliquia.png",
+      "sonido": "assets/sounds/reliquia.mp3"
+    },
+    {
+      "id": "plan_en_la_biblioteca",
+      "palabras_clave": [
+        "biblioteca",
+        "plan",
+        "mapa",
+        "estrategia"
+      ],
+      "imagen": "assets/animaciones/diario.png",
+      "sonido": "assets/sounds/diario.mp3"
+    },
+    {
+      "id": "transformacion_por_reliquia",
+      "palabras_clave": [
+        "reliquia",
+        "disfraz",
+        "transformación",
+        "medallón"
+      ],
+      "imagen": "assets/animaciones/medallon.png",
+      "sonido": "assets/sounds/medallon.mp3"
+    },
+    {
+      "id": "salvia_de_mandra",
+      "palabras_clave": [
+        "salvia",
+        "mandra",
+        "regeneración",
+        "inmortalidad"
+      ],
+      "imagen": "assets/animaciones/reliquias_familiares.png",
+      "sonido": "assets/sounds/reliquias_familiares.mp3"
+    },
+    {
+      "id": "batalla_en_la_sala",
+      "palabras_clave": [
+        "batalla",
+        "akineanos",
+        "gadianes",
+        "pasadizo"
+      ],
+      "imagen": "assets/animaciones/sombra.png",
+      "sonido": "assets/sounds/sombra.mp3"
+    },
+    {
+      "id": "daga_y_sacrificio",
+      "palabras_clave": [
+        "daga",
+        "sacrificio",
+        "rachel",
+        "herida"
+      ],
+      "imagen": "assets/animaciones/daga.png",
+      "sonido": "assets/sounds/daga.mp3"
+    },
+    {
+      "id": "video_de_traicion",
+      "palabras_clave": [
+        "video",
+        "traición",
+        "biblioteca",
+        "cámara"
+      ],
+      "imagen": "assets/animaciones/mascara_antigas.png",
+      "sonido": "assets/sounds/mascara_antigas.mp3"
+    },
+    {
+      "id": "conversacion_con_khimm",
+      "palabras_clave": [
+        "khimm",
+        "plan",
+        "estrategia",
+        "disfraz"
+      ],
+      "imagen": "assets/animaciones/angelo_boutov.png",
+      "sonido": "assets/sounds/angelo_boutov.mp3"
+    },
+    {
+      "id": "epifania_de_angelo",
+      "palabras_clave": [
+        "justicia",
+        "venganza",
+        "abuelo",
+        "juramento"
+      ],
+      "imagen": "assets/animaciones/angelo_boutov.png",
+      "sonido": "assets/sounds/abuelo_abelard.mp3"
+    },
+    {
+      "id": "el_medallon_real",
+      "palabras_clave": [
+        "medallón",
+        "clon",
+        "gadian",
+        "secreto"
+      ],
+      "imagen": "assets/animaciones/medallon.png",
+      "sonido": "assets/sounds/medallon.mp3"
+    }
+  ]
+}

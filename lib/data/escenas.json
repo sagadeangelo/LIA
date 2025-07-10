@@ -1,0 +1,81 @@
+{
+  "escena_familiar": {
+    "palabras_clave": ["abuelo", "hogar"],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "assets/lottie/mi_escena_hogar.json"
+        "transicion": "fadeIn"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/abuelo_abelard.mp3"
+  },
+
+  "escena_laboratorio": {
+    "palabras_clave": ["laboratorio"],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "https://assets2.lottiefiles.com/packages/lf20_lab_background.json",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "personaje",
+        "src": "assets/animaciones/angelo_boutov.png",
+        "transicion": "fadeInLeft"
+      }
+    ],
+    "sonido_ambiente": "assets/sounds/laboratorio.mp3"
+  },
+
+  "artefactos_inicio": {
+    "texto": "Estaban frente a mí, todos los artefactos resguardados... cada uno tenía etiquetas y una breve explicación de su funcionamiento.",
+    "palabras_clave": ["artefactos", "cámara", "reliquias"],
+    "elementos": [
+      {
+        "tipo": "fondo",
+        "src": "assets/animaciones/camara_artefactos.png",
+        "transicion": "fadeIn"
+      },
+      {
+        "tipo": "objeto",
+        "src": "assets/animaciones/doce_artefactos.png",
+        "transicion": "fadeInUp"
+      }
+    ],
+    "sonido_ambiente": "assets/audio/ambiente_misterioso.mp3",
+    "siguiente": "escena_brazalete"
+  },
+
+  "escena_brazalete": {
+    "texto": "El brazalete y el medallón pueden reflejar tu imagen y transmitir tu voz. Son parte de una reliquia mayor.",
+    "palabras_clave": ["brazalete", "medallón", "reliquia"],
+    "elementos": [
+      {
+        "tipo": "objeto",
+        "src": "assets/animaciones/brazalete.png",
+        "transicion": "fadeInRight"
+      },
+      {
+        "tipo": "objeto",
+        "src": "assets/animaciones/medallon.png",
+        "transicion": "fadeInLeft"
+      }
+    ],
+    "sonido_ambiente": "assets/audio/eco_sagrado.mp3",
+    "siguiente": "escena_daga"
+  },
+
+  "escena_daga": {
+    "texto": "La daga podía atravesar a alguien sin herirlo. Una ilusión antigua de sacrificio simbólico.",
+    "palabras_clave": ["daga", "ilusión", "sacrificio"],
+    "elementos": [
+      {
+        "tipo": "objeto",
+        "src": "assets/animaciones/daga.png",
+        "transicion": "fadeIn"
+      }
+    ],
+    "sonido_ambiente": "assets/audio/efecto_magico.mp3"
+  }
+}

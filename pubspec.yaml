@@ -1,0 +1,37 @@
+name: lia_lectura_inmersiva
+description: Una app de lectura inmersiva con audio y voz reactiva.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.4.0
+  speech_to_text: ^7.0.0
+  provider: ^6.1.5
+  shared_preferences: ^2.2.2
+  confetti: ^0.7.0
+  lottie: ^2.6.0
+  permission_handler: ^11.0.1
+  flutter_animate: ^4.2.0
+  string_similarity: ^2.0.0
+  flutter_screenutil: ^5.6.1
+  wakelock_plus: ^1.1.2
+  flutter_sound: ^9.1.8
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/portadas/
+    - assets/images/
+    - assets/data/
+    - assets/sounds/
+    - assets/audio/
+    - assets/animaciones/
+    - assets/animations/
+    - assets/rive/
+    - lib/data/escenas.json
+    - assets/lottie/

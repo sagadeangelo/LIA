@@ -1,0 +1,63 @@
+// lector_con_escena.dart
+
+import 'package:flutter/material.dart';
+import 'package:lia_lectura_inmersiva/widgets/scene_builder.dart';
+
+class LectorConEscena extends StatefulWidget {
+  const LectorConEscena({super.key});
+
+  @override
+  State<LectorConEscena> createState() => _LectorConEscenaState();
+}
+
+class _LectorConEscenaState extends State<LectorConEscena> {
+  String palabraClaveDetectada = '';
+  final TextEditingController _controller = TextEditingController();
+
+  void _procesarPalabra(String palabra) {
+    setState(() {
+      palabraClaveDetectada = palabra.trim().toLowerCase();
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Escena Dinámica con LIA'),
+      ),
+      body: Stack(
+        children: [
+          Container(
+            padding: const EdgeInsets.all(16),
+            alignment: Alignment.topCenter,
+            child: Column(
+              children: [
+                const Text(
+                  'Escribe una palabra clave para activar la escena:',
+                  style: TextStyle(fontSize: 16),
+                ),
+                const SizedBox(height: 12),
+                TextField(
+                  controller: _controller,
+                  decoration: const InputDecoration(
+                    border: OutlineInputBorder(),
+                    hintText: 'Ej. laboratorio, abuelo, batalla...'
+                  ),
+                  onSubmitted: _procesarPalabra,
+                ),
+                const SizedBox(height: 8),
+                ElevatedButton(
+                  onPressed: () => _procesarPalabra(_controller.text),
+                  child: const Text('Activar escena'),
+                )
+              ],
+            ),
+          ),
+          if (palabraClaveDetectada.isNotEmpty)
+            SceneBuilder(palabraClave: palabraClaveDetectada)
+        ],
+      ),
+    );
+  }
+}
