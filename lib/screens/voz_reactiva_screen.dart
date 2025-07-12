@@ -1,5 +1,7 @@
 // ✅ voz_reactiva_screen.dart completo y limpio
 
+import '../data/datos_efectos.dart';
+import '../data/alias_nombres.dart';
 import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/material.dart';
